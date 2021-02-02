@@ -1,2 +1,2 @@
 # redis-boot-starter
-redis
+redis集成springboot自动装配
