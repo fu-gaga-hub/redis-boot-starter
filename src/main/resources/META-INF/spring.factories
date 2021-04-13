@@ -1,6 +1,7 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 com.gaga.redisutils.RedisUtilsConfig,\
- com.gaga.redisutils.redisUtil.RedisTemplateService
+ com.gaga.redisutils.redisUtil.RedisTemplateService,\
+  com.gaga.redisutils.redisUtil.RedisLock
 
 #org.springframework.context.ApplicationContextInitializer=\
 #  com.gaga.redisutils.redisUtil.RedisTemplateService
